@@ -1,15 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb688c&height=120&section=header"/>
+
 # 💫 Sobre mim
 <b>Olá! Eu sou o Felipe Silva</b>
 
 🔭 Hoje eu estou trabalhando como Dev. Júnior<br>
-🌱 Estudando PHP com Laravel e Angular<br>
+🌍 De São Paulo, SP - Brasil<br>
 😄 Pronomes: ele/dele
 
 # 📊 Status do GitHub
 <div>
   <a href="https://github.com/felipesilva15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesilva15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilva15&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipesilva15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesilva15&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
   </a>
 </div>
 
@@ -25,6 +27,14 @@
   <img align="center" alt="Felipe-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Felipe-mySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Felipe-MSSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Felipe-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+# 🎓 Estudando neste momento
+<div style="display: inline_block">
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Felipe-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Felipe-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 # 🌐 Redes sociais
@@ -33,3 +43,5 @@
 
 # 🐍 Snake game
 ![Snake animation](https://github.com/felipesilva15/felipesilva15/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb688c&height=120&section=footer"/>
