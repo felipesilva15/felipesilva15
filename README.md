@@ -46,6 +46,6 @@
 <a href="https://www.linkedin.com/in/felipe-silva1508/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 # 🐍 Snake game
-![Snake animation](https://github.com/felipesilva15/felipesilva15/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/felipesilva15/felipesilva15/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb688c&height=120&section=footer"/>
