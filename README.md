@@ -6,7 +6,7 @@
 🔭 Hoje eu estou trabalhando como Dev. Pleno<br>
 🌍 De São Paulo, SP - Brasil<br>
 😄 Pronomes: ele/dele<br>
-🌐 Meus projetos: <https://felipesilva15.github.io/>
+🌐 Meus projetos: <https://portfolio.felipesilva15.com.br/>
 
 # 📊 Status do GitHub
 <div>
@@ -37,6 +37,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Felipe-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Felipe-Laravel" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Felipe-SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Felipe-Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Felipe-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
